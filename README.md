@@ -10,7 +10,7 @@
 
 ## Live Demo
 [Deployed on Streamlit Cloud]
-
+https://amazon-kids-appuct-search-wjchxxwedrdklawdflpvju.streamlit.app/#1-lego-storage-brick-4-lime-green
 ## Tech Stack
 - Elasticsearch 8.16+ (BBQ int8_hnsw)
 - Sentence Transformers
