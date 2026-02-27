@@ -1,7 +1,9 @@
 # Amazon Kids Product Search
 
 **Elastic Blogathon 2026 - Production Search System**
-**Link to detailed google colab notebook:**https://colab.research.google.com/drive/1MH8HCEjyEch9_Q0754D3dO7Gz2ZeZlAI?usp=sharing
+
+Link to detailed google colab notebook:https://colab.research.google.com/drive/1MH8HCEjyEch9_Q0754D3dO7Gz2ZeZlAI?usp=sharing
+
 ## Features
 - BBQ Quantization (75% memory savings)
 - Hybrid RRF Search (BM25 + Vector)
