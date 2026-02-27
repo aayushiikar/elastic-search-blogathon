@@ -1,6 +1,9 @@
 # Amazon Kids Product Search
 
 **Elastic Blogathon 2026 - Production Search System**
+## Live Demo
+[Deployed on Streamlit Cloud]
+https://amazon-kids-appuct-search-wjchxxwedrdklawdflpvju.streamlit.app/#1-lego-storage-brick-4-lime-green
 
 Link to detailed google colab notebook:https://colab.research.google.com/drive/1MH8HCEjyEch9_Q0754D3dO7Gz2ZeZlAI?usp=sharing
 
@@ -10,10 +13,6 @@ Link to detailed google colab notebook:https://colab.research.google.com/drive/1
 - JinaAI Reranker v3
 - 3-stage pipeline architecture
   
-
-## Live Demo
-[Deployed on Streamlit Cloud]
-https://amazon-kids-appuct-search-wjchxxwedrdklawdflpvju.streamlit.app/#1-lego-storage-brick-4-lime-green
 ## Tech Stack
 - Elasticsearch 8.16+ (BBQ int8_hnsw)
 - Sentence Transformers
